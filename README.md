@@ -7,8 +7,8 @@ I developed many high quality websites and products for several companies and in
 <a target="_blank" href="https://www.hoidx.dev/"><img align="center" width="150" height="150" src="https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif"> Visit my website 🌎 </a>
 
 ## 
-- 🌱 Check my latest clients around the world at <a href="https://www.fiverr.com/hoidxdev?up_rollout=true"> Fiverr</a>
-- 💼 You can check my <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a>
+- 🌱 Check my latest clients around the world at <a href="https://www.fiverr.com/hoidxdev?up_rollout=true"> Fiverr</a>.
+- 💼 Check my work experience and <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> profile.
 
 ##
 
