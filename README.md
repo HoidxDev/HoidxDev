@@ -16,4 +16,6 @@ I developed many high quality websites and products for several companies and in
 
 
 [![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,redux,bootstrap,mongodb,graphql,firebase,jest,figma&perline=10)](https://skillicons.dev)
-📫 LinkedIn : <a href="https://www.linkedin.com/in/davuthan-hoidx/"> Davuthan </a>
+
+- Check my latest clients around the world <a href="https://www.fiverr.com/hoidxdev?up_rollout=true"> Fiverr</a> 🏓
+- You can check my LinkedIn <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
