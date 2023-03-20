@@ -15,6 +15,6 @@ I developed many high quality websites and products for several companies and in
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
 
-**📝 I have improved myself a growing number of tech stack such as **
+**📝 I have improved myself a growing number of tech stack such as**
 
 # [![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,redux,bootstrap,mongodb,graphql,firebase,jest,figma&perline=10)](https://skillicons.dev)
