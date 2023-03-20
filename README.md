@@ -1,7 +1,7 @@
-# Hi, I'm Hoidx 👋 
+#Hi, I'm Hoidx 👋 
 
 
-## Find me around the web 🌎: <img align="left" width="200" height="200" src="https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif"/>
+## Find me around the web 🌎: <img align="center" width="200" height="100" src="https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif"/>
 
 
 
