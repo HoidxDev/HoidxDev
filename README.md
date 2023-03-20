@@ -11,5 +11,6 @@
 
 
 
-###[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,redux,bootstrap,mongodb,graphql,firebase,jest,figma&perline=10)](https://skillicons.dev)
+###
+[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,redux,bootstrap,mongodb,graphql,firebase,jest,figma&perline=10)](https://skillicons.dev)
 
