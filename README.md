@@ -8,4 +8,5 @@ I developed many high quality websites and products for several companies and in
 - You can check my LinkedIn <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,redux,bootstrap,mongodb,graphql,firebase,jest,figma&perline=10)](https://skillicons.dev)
+
+# [![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,redux,bootstrap,mongodb,graphql,firebase,jest,figma&perline=10)](https://skillicons.dev)
