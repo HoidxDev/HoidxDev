@@ -1,5 +1,6 @@
  # Hi, I'm Hoidx 👋 
 
+---
 
 ## Find me around the web 🌎: <a href="https://www.hoidx.dev/"><img align="left" width="150" height="150" src="https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif"></a>
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
@@ -8,6 +9,7 @@
 
 
 
+---
 
 
 
