@@ -16,7 +16,7 @@ I developed many high quality websites and products for several companies and in
 
 ## 
 - 🌱 Check my latest clients around the world at <a href="https://www.fiverr.com/hoidxdev?up_rollout=true"> Fiverr</a>.
-- 💼 Check my work experience and <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> profile.
+- 💼 Check my work experience and <a href="https://www.linkedin.com/in/davuthan-hoidx/">LinkedIn</a> profile.
 
 ##
 
