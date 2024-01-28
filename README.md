@@ -1,7 +1,8 @@
  # Hi, I'm Hoidx 👋 
 
-I'm Davuthan, experienced Front End Developer with 2 year in the industry. Proficient with React, Javascript, Nextjs, Threejs and Typescript.
-I developed many high quality websites and products for several companies and individuals. I love creativity and amaze people. Constantly improving myself on animations and 3D scenes. Always curious to learn more. Interested in the entire frontend spectrum and working on ambitious projects with positive people.
+I'm Davuthan, a 21-year-old Creative Front End Developer with two years of experience. I have proficiency in React, Three.js, GSAP, Tailwind, Next.js, and TypeScript. As a dedicated and hardworking professional, I am committed to producing high-quality work and delivering exceptional results.
+
+My passion lies in creativity and astonishing people with my skills. I am constantly improving in the areas of animations and 3D scenes, driven by an insatiable curiosity to learn more. I have a keen interest in the entire front-end spectrum and am enthusiastic about working on ambitious projects alongside positive and like-minded individuals.
 
 ##  
 <a href="https://www.hoidx.dev/">  Visit my website 🌎 </a>
