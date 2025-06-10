@@ -1,4 +1,4 @@
- # Hi, I'm Hoidx 👋 
+ # Hi, I'm Hoidxx 👋 
 
 I'm Davuthan, a 23-year-old Creative Frontend Developer with 4 years of experience. I have proficiency in React, Three.js, GSAP, Tailwind, Next.js, and TypeScript. As a dedicated and hardworking professional, I am committed to producing high-quality work and delivering exceptional results.
 
