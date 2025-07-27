@@ -5,7 +5,7 @@ I'm Davuthan, a 23-year-old Creative Frontend Developer with 4 years of experien
 My passion lies in creativity and astonishing people with my skills. I am constantly improving in the areas of animations and 3D scenes, driven by an insatiable curiosity to learn more. I have a keen interest in the entire front-end spectrum and am enthusiastic about working on ambitious projects alongside positive and like-minded individuals.
 
 ##  
-<a href="https://www.hoidx.dev/">  Visit my website 🌎 </a>
+<a href="https://www.hoidx.dev/">  Visit  my website 🌎 </a>
 
 
 
