@@ -1,6 +1,4 @@
- # Hi, I'm Hoidx 👋 
-
-Fullstack Engineer · 5+ years
+Fullstack Engineer with 5+ years shipping real products.
 
 ##  
 <a href="https://www.hoidx.dev/">  Visit my website 🌎 </a>
